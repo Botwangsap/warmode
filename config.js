@@ -17,15 +17,15 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'THE JO BOT'
-global.autorecording = false //status auto merekam ( auto record )
+global.ownername = 'AnggaKz🤖👿'
+global.autorecording = true //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
-global.available = false //status online (online)
+global.available = true //status online (online)
 // Other
-global.owner = ['60177426853','60177426853','60177426853']
-global.premium = ['60177426853']
-global.packname = 'The Jo Bot'
-global.author = 'WhatsApp Bot'
+global.owner = ['79969802753','66652963765','66654866905']
+global.premium = ['79969802753']
+global.packname = 'Bot Khusus Warmode🤖👿'
+global.author = 'Bot By AnggaKz👿'
 global.wlcm = []
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
